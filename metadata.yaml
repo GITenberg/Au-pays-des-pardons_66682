@@ -1,5 +1,8 @@
 _repo: Au-pays-des-pardons_66682
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66682-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Braz, Anatole
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Anatole_Le_Braz
     - https://en.wikipedia.org/wiki/Anatole_Le_Braz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66682#Au-pays-des-pardons
 gutenberg_issued: '2021-11-06'
 identifiers:
   gutenberg: '66682'
